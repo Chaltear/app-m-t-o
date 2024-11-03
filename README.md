@@ -1,1 +1,2 @@
-# application de météo développée sur android studio est utilisant une API
+# Weather APP
+ application de météo développée sur android studio est utilisant une API
